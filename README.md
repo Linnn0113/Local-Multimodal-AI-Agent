@@ -160,4 +160,8 @@ A: Streamlit 依赖 pyarrow，在某些老旧 Linux 系统上可能因 cmake 版
 2. 确保 numpy 版本兼容：pip install "numpy\<2.0.0"。  
 3. 如果仍无法解决，请使用 CLI 命令行模式进行作业评测，核心 RAG 功能逻辑完全一致。
 
+## **8\. 演示视频**
+
+https://github.com/user-attachments/assets/7ee64556-afb6-43c3-b2f3-e38f7fa1061f
+
 *Created for Multimodal Machine Learning Course Assignment.*

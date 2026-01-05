@@ -162,6 +162,8 @@ A: Streamlit 依赖 pyarrow，在某些老旧 Linux 系统上可能因 cmake 版
 
 ## **8\. 演示视频**
 
-https://github.com/user-attachments/assets/7ee64556-afb6-43c3-b2f3-e38f7fa1061f
+
+https://github.com/user-attachments/assets/233c5be0-65cf-4e82-91c4-f25b63bf7dad
+
 
 *Created for Multimodal Machine Learning Course Assignment.*

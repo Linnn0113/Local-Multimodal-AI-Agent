@@ -1,0 +1,9 @@
+chromadb
+sentence-transformers
+pypdf
+pillow
+torch
+huggingface-hub
+numpy<2.0.0
+streamlit
+gradio
